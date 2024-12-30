@@ -1,0 +1,19 @@
+{
+    "name": "matiasquevedo/inspire",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "illuminate/support": "^11.36"
+    },
+    "autoload": {
+        "psr-4": {
+            "Matiasquevedo\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matias Quevedo",
+            "email": "matiasquevedo.sabbath@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
